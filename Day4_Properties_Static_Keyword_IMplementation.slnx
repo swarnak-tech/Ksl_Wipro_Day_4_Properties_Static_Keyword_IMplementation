@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Demo1_ExceptionalHandling/Demo1_ExceptionalHandling.csproj" Id="2e43b5d8-32e0-4b6c-9cca-0c097e65f0f8" />
+  <Project Path="../Demo_User_Define_Types/Demo_User_Define_Types.csproj" Id="ca8ff7e1-3171-46a0-9666-4f917a60c4f1" />
+  <Project Path="Day4_Properties_Static_Keyword_IMplementation.csproj" Id="03cacd6b-c3cf-4ff9-b5eb-77708d2cbccb" />
+</Solution>
